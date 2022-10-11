@@ -5,17 +5,19 @@ div {
 
 }
 
-.caja{
-    background-color: rgb(38, 109, 85);
-    position: relative;
+.caja{  background-color: rgb(38, 109, 85);
+        position: relative;
+        width: 400px;
+        height: 100px;
+        background: rgb(18, 14, 214);
+        display: flex;
+        justify-content: space-between;
+        margin-top: center;
+        paddin-top: center;
+        border-radius: 10px;
+        
+    }
     
-    width: 400px;
-    height: 100px;
-    margin: auto;
-    margin-top: center;
-    
-
-}
 
 .caja2{
     background-color: rgb(163, 38, 16);
